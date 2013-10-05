@@ -341,7 +341,7 @@ UsedLibrary="/Applications/EAGLE-6.5.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="/Applications/EAGLE-6.5.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="/Applications/EAGLE-6.5.0/lbr/zetex.lbr"
 UsedLibrary="/Applications/EAGLE-6.5.0/lbr/zilog.lbr"
-UsedLibrary="lbr/components.lbr"
+UsedLibrary="lbr/brewbox-components.lbr"
 
 [Win_1]
 Type="Control Panel"
